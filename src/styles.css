@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --bckColor: #222327;
+  --bckColor2: #121212;
+  --titleColor: #ff6e00;
+  --txtColor: #ed820e;
+  --scdColor: #00009b;
+}
+
+body {
+  min-height: 120vh;
+  scroll-behavior: smooth;
+}
